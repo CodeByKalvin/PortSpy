@@ -1,4 +1,4 @@
-# PortSpy - Your Network's Silent Guardian 🛡️
+# PortSpy 🛡️
 
 Welcome to **PortSpy**, a fast and efficient multi-threaded port scanner designed for developers, system administrators, and security enthusiasts. Whether you need to audit your own network or identify potential vulnerabilities, PortSpy makes it easy to detect open ports, operating systems, and service banners—all while keeping things fast and lightweight.
 
