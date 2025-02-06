@@ -36,7 +36,7 @@ Main libraries include:
 ### 3. Run PortSpy
 Once everything is installed, simply run:
 ```bash
-python scanner.py
+sudo python scanner.py
 ```
 
 ---
